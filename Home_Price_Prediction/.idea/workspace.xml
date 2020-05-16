@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="121fd18e-3c60-46be-a884-3b5daf3289b3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BHK" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Wv2pSj7UIC7nj3Jx6tqQhCVnXh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BangloreHomePrices/model" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../BangloreHomePrices/model" />
+      <recent name="$PROJECT_DIR$/../BangloreHomePrices" />
+      <recent name="$PROJECT_DIR$/model" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/server/artifacts" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/untitled folder" />
+      <recent name="$PROJECT_DIR$/server/artifacts" />
+      <recent name="$PROJECT_DIR$/server" />
+      <recent name="$PROJECT_DIR$/model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.util (3)">
+    <configuration name="server (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BHK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BangloreHomePrices/server" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BangloreHomePrices/server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BHK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/server.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BHK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads/py-master/DataScience/BangloreHomePrices/server" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/py-master/DataScience/BangloreHomePrices/server/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BHK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../BangloreHomePrices/server" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../BangloreHomePrices/server/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="util" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BHK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server/artifacts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/util.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.util (3)" />
+        <item itemvalue="Python.util" />
+        <item itemvalue="Python.server (2)" />
+        <item itemvalue="Python.server" />
+        <item itemvalue="Python.util (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="121fd18e-3c60-46be-a884-3b5daf3289b3" name="Default Changelist" comment="" />
+      <created>1580015930120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580015930120</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="86" key="#Inspections" timestamp="1580307644516">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="65" key="#Inspections/0.0.1280.800@0.0.1280.800" timestamp="1580270290759" />
+    <state x="240" y="86" key="#Inspections/0.23.1280.777@0.23.1280.777" timestamp="1580307644516" />
+    <state x="240" y="77" key="#Notifications" timestamp="1580307827581">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="240" y="77" key="#Notifications/0.23.1280.777@0.23.1280.777" timestamp="1580307827581" />
+    <state x="104" y="73" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580269923497">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="104" y="73" width="1071" height="696" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1580269923497" />
+    <state x="328" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580238064643">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="328" y="146" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1580238064643" />
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580309401002">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="378" y="165" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.777@0.23.1280.777" timestamp="1580309401002" />
+    <state x="427" y="173" key="FileChooserDialogImpl" timestamp="1580018098861">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="427" y="173" key="FileChooserDialogImpl/0.23.1280.777@0.23.1280.777" timestamp="1580018098861" />
+    <state width="1280" height="221" key="GridCell.Tab.0.bottom" timestamp="1580310608094">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="221" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580310608094" />
+    <state width="1280" height="221" key="GridCell.Tab.0.center" timestamp="1580310608093">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="221" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1580310608093" />
+    <state width="1280" height="221" key="GridCell.Tab.0.left" timestamp="1580310608092">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="221" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1580310608092" />
+    <state width="1280" height="221" key="GridCell.Tab.0.right" timestamp="1580310608093">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="221" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1580310608093" />
+    <state width="1280" height="274" key="GridCell.Tab.1.bottom" timestamp="1580275727305">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="274" key="GridCell.Tab.1.bottom/0.23.1280.777@0.23.1280.777" timestamp="1580275727305" />
+    <state width="1280" height="274" key="GridCell.Tab.1.center" timestamp="1580275727304">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="274" key="GridCell.Tab.1.center/0.23.1280.777@0.23.1280.777" timestamp="1580275727304" />
+    <state width="1280" height="274" key="GridCell.Tab.1.left" timestamp="1580275727303">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="274" key="GridCell.Tab.1.left/0.23.1280.777@0.23.1280.777" timestamp="1580275727303" />
+    <state width="1280" height="274" key="GridCell.Tab.1.right" timestamp="1580275727304">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1280" height="274" key="GridCell.Tab.1.right/0.23.1280.777@0.23.1280.777" timestamp="1580275727304" />
+    <state x="141" y="50" key="SettingsEditor" timestamp="1580018153617">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="141" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1580018153617" />
+    <state x="305" y="124" key="search.everywhere.popup" timestamp="1580018773981">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1580018773981" />
+  </component>
+</project>
